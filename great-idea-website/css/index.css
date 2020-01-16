@@ -114,4 +114,42 @@ nav .logo{
     display:inline-block;
 }
 
+.services{
+    width:30%;
+    display:inline-block;
+}
 
+.product{
+    width:30%;
+    display:inline-block;
+}
+
+.vision{
+    width:30%;
+    display:inline-block;
+}
+
+.contact{
+    width:20%;
+    margin:0;
+    padding:3%;
+}
+
+#topText{
+    margin:0;
+    padding:3%;
+}
+
+#bottomText{
+    margin:0;
+    padding:3%;
+}
+
+.middle-img{
+    margin:0;
+    padding:3%;
+}
+
+.copyright{
+    text-align:center;
+}
